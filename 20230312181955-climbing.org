@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       FB5387E6-871F-468F-9AF8-0C8F8F3641CA
+:END:
+#+title: Climbing
+
+#+LATEX: \newpage
+* Gym Climbing  
+#+NAME: Bouldering Log
+#+ATTR_LATEX: :font \footnotesize 
+|------------------+----------------+-------------------------+----+----+----+----+------+------+------|
+| Date             | Location       | Gym                     | V4 | V5 | V6 | V7 | 5.10 | 5.11 | 5.12 |
+|------------------+----------------+-------------------------+----+----+----+----+------+------+------|
+| <2023-03-07 Thu> | West Lafayette | Corec                   |    |    |    |    |      |      |      |
+| <2023-03-08 Fri> | West Lafayette | Corec                   |  3 |    |    |    |      |      |      |
+| <2023-03-12 Sun> | West Lafayette | Corec                   |  1 |    |    |    |      |      |      |
+| <2023-03-13 Mon> | West Lafayette | Corec                   |  1 |  1 |    |    |      |      |      |
+| <2023-03-17 Fri> | Chicago        | First Ascent (Avondale) |  1 |    |    |    |      |      |      |
+| <2023-03-19 Sun> | Chicago        | First Ascent (Block 37) |  6 |  1 |    |    |      |      |      |
+| <2023-03-21 Tue> | Lafayette      | Climb Lafayette         |  1 |    |    |    |      |      |      |
+| <2023-03-24 Fri> | Lafayette      | Climb Lafayette         |  1 |    |    |    |      |      |      |
+| <2023-03-26 Sun> | West Lafayette | Corec                   |  2 |    |    |    |      |      |      |
+|------------------+----------------+-------------------------+----+----+----+----+------+------+------|
+| Statistics       |                |                         | 16 |  2 |  0 |  0 |    0 |    0 |    0 |
+|------------------+----------------+-------------------------+----+----+----+----+------+------+------|
+#+TBLFM: @>$4..@>$>=vsum(@2$0..@-1$0)
+
+
+Useful links:
+1. [[https://www.mec.ca/en/explore/climbing-grade-conversion][Climbing Grade Conversion Table]]
+2. [[https://www.youtube.com/watch?v=0rAkLqk3UXM][An interesting protocal for hangboarding everyday]]
+
+* Off-Wall Training
